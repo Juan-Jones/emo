@@ -11,8 +11,4 @@ favicon: ../uploads/earn-money-online-gigs.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
-items:
-  - name: Side Hustles
-    siteurl: https://earnonlinemoney.org/side-hustles/
-  - name: Blogging
-    siteurl: https://earnonlinemoney.org/blogging/
+items: []
