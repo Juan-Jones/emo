@@ -1,13 +1,13 @@
 title: Earn Money Online
-description: Find ways to earn money online, i.e., side hustles, work at home jobs and investing, learn how to start an online business freelancing, e marketing or blogging.
-header_text: My Dream Blog
-header_text_color: "#ffffff"
+description: A website with a blog
 footer_text: Copyright 2023 Earn Money Online
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-navbarheight: "55px"
-gridlayout: false
+header_feature_image: ../uploads/earnonlinemoney-sleep.png
+header_text: Earn Money Online
+header_text_color: "#ffffff"
+bannerheight: 20vmax
+navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
