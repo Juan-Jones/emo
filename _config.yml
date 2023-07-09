@@ -58,7 +58,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-permalink: /posts/:title
+permalink: /posts/:title/
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "README.md"]
 github: [metadata]
