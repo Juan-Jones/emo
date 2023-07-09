@@ -38,6 +38,9 @@ collections:
   homepageitems:
     output: true
     layout: page
+#archives
+plugins:
+  - jekyll-archives    
 
 # BUILD SETTINGS
 kramdown:
