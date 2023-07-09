@@ -9,6 +9,10 @@ timezone: UTC
 rss: false  # Make sure you created a feed.xml with feed.xml layout
 # excerpt_separator: <!--above-here-is-displayed-on-home-page-->
 
+url: "https://earnonlinemoney.org" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 # Scripts / Features
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
