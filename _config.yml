@@ -38,7 +38,6 @@ collections:
   homepageitems:
     output: true
     layout: page
-include: ['_categories']
 
 # BUILD SETTINGS
 kramdown:
