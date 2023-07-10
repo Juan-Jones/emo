@@ -56,7 +56,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-permalink: pretty
+permalink: /:collection/:name
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "README.md"]
 github: [metadata]
